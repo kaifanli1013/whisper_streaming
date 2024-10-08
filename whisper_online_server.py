@@ -165,8 +165,6 @@ class ServerProcessor:
 #        o = online.finish()  # this should be working
 #        self.send_result(o)
 
-
-
 # server loop
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
