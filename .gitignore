@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# test files
+*.wav
+*.mp3
+*.mp4
+
+# Output files
+*.txt
+
+# pipenv files
+Pipfile
+Pipfile.lock
